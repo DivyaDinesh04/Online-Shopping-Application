@@ -15,4 +15,10 @@ public class PracticeTest {
 	{
 		System.out.println(" practice2 ");
 	}
+	
+	@Test
+	public void practice3Test()
+	{
+		System.out.println("practice3 is done");
+	}
 }

@@ -16,4 +16,10 @@ public class SampleTest {
 		System.out.println(" sample2 ");
 	}
 
+	
+	@Test
+	public void sample3Test()
+	{
+		System.out.println("sample3 is not yet done");
+	}
 }
