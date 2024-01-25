@@ -7,6 +7,7 @@ public class CategoryTest {
 	public void categoryTest()
 	{
 		System.out.println("category created");
+		System.out.println("category again created");
 	}
 
 }
