@@ -15,6 +15,7 @@ public class ProductManageTest {
 	{
 		System.out.println("---d4--");
 		System.out.println("---added new product manager--");
+		System.out.println("new admin");
 	}
 
 
