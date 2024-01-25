@@ -21,5 +21,6 @@ public class DemoTest {
 	{
 		System.out.println("deom3 need to be executed");
 		System.out.println("check for conflict");
+		System.out.println("check update");
 	}
 }
