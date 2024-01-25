@@ -16,9 +16,5 @@ public class DemoTest {
 		System.out.println(" demo2 ");
 	}
 	
-	@Test
-	public void demo3Test()
-	{
-		System.out.println("deom3 need to be executed");
-	}
+	
 }
