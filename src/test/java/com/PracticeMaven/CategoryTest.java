@@ -9,5 +9,11 @@ public class CategoryTest {
 		System.out.println("category created");
 		System.out.println("category again created");
 	}
+	
+	@Test
+	public void subcategoryTest()
+	{
+		System.out.println("subcategory created");
+	}
 
 }
