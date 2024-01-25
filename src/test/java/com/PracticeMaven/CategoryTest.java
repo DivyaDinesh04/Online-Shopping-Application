@@ -8,5 +8,11 @@ public class CategoryTest {
 	{
 		System.out.println("category created");
 	}
+	
+	@Test
+	public void subcategoryTest()
+	{
+		System.out.println("subcategory created");
+	}
 
 }
